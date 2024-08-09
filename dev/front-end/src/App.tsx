@@ -1,7 +1,9 @@
+import AppRouter from "./app-router";
+
 const App = () => {
   return (
     <>
-      Hello World!
+      <AppRouter />
     </>
   );
 }
